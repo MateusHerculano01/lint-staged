@@ -1,1 +1,1 @@
-echo "teste commit"
+npx lint-staged
