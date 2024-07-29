@@ -11,7 +11,7 @@
     "prepare": "husky"
   },
   "lint-staged": {
-    "*.ts": "biome check --write --no-errors-on-unmatched"
+    "*.ts": "biome check --no-errors-on-unmatched"
   },
   "private": true,
   "dependencies": {
